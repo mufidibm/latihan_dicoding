@@ -6,9 +6,5 @@ Ini adalah repository untuk menunjang latihan dari dicoding dalam program coding
 - Contoh list
 - Contoh list
 
-**Heading**  
-#h1#
-##h2###
-####h4
-#####h5
-######h6
+**Italic**  
+*Ini adalah teks dengan format italic*
