@@ -12,3 +12,4 @@ Ini adalah repository untuk menunjang latihan dari dicoding dalam program coding
 aku suka belajar github
 
 commit 1  
+commit 2  
