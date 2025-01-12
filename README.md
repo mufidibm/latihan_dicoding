@@ -9,4 +9,8 @@ Ini adalah repository untuk menunjang latihan dari dicoding dalam program coding
 **Italic**  
 *Ini adalah teks dengan format italic*
 
-aku suka belajar github
+aku suka belajar github  
+
+commit 1  
+commit 2  
+commit 3  
