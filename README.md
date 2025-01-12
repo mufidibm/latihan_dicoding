@@ -5,3 +5,6 @@ Ini adalah repository untuk menunjang latihan dari dicoding dalam program coding
 - Contoh list
 - Contoh list
 - Contoh list
+
+**Italic**  
+*Ini adalah teks dengan format italic*
