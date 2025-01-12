@@ -7,9 +7,8 @@ Ini adalah repository untuk menunjang latihan dari dicoding dalam program coding
 - Contoh list
 
 **Heading**  
-#h1
-##h2
-###h3
+#h1#
+##h2###
 ####h4
 #####h5
 ######h6
